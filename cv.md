@@ -39,6 +39,15 @@ Project manager in Web agency, with experience of leading teams and managing pro
 
 ## Work experience
 
+### Head Of Project Management Nov 2020 – Present
+
+- interviewing for open positions;
+- onboarding documentation and leading;
+- resource planning;
+- managing current projects
+
+### Project Manager Apr 2018 – Present
+
 **Experience in:**
 
 - planning and defining the _scope of projects_ and scheduling;
