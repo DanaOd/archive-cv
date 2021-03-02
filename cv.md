@@ -6,9 +6,10 @@
 
 ## Contacts
 
-Phone:
+Phone: (+380) 63-63-154-23
 Email: dana.lalovaod@gmail.com
 Address: Odessa, Ukraine
+[LinkedIn:](https://www.linkedin.com/in/dana-lalova-76846083/)
 
 ## About me
 
@@ -35,22 +36,27 @@ Project manager in Web agency, with experience of leading teams and managing pro
 
 ## Work experience
 
-Experience in:
+**Experience in:**
 
-- planning and defining the scope of projects and scheduling;
-- defining the priorities, working on Scrum and Kanban;
+- planning and defining the _scope of projects_ and scheduling;
+- defining the priorities, working on _Scrum_ and _Kanban_;
 - leading team of designers and developers on full project lifecycle - from research, till release and support;
 - elaboration and clarification of specifications and project changes;
-- documentation (user stories/acceptance criteria, feature-list, technical specification, Userflow, roadmaps, resource planning, etc);
+- _documentation_ (user stories/acceptance criteria, feature-list, technical specification, Userflow, roadmaps, resource planning, etc);
 - leading different types of projects: Branding creation, Web and Mobile design, Illustrations, 3d-modelling and motion design, Web development (Front-end, WordPress/CMS connection, cooperation with Back-end);
-- communication with the client and stakeholders: kick-off and demo meetings, weekly planning, follow-ups; progress, plans, features and risks discussion; set customer expectations;
+- _communication_ with the client and stakeholders: kick-off and demo meetings, weekly planning, follow-ups; progress, plans, features and risks discussion; set customer expectations;
 - basic testing and design-review, preparing bugs reports;
-- controlling the quality of the process, deliverables and estimates;
+- _controlling_ the quality of the process, deliverables and estimates;
 - simultaneous management of several projects, communication through different timezones and countries (USA, Europe, China, Australia);
 
 ## Education
 
-Masters degree at Odessa National Marine university
+- Masters degree at Odessa National Marine university. 2008-2014
+- Projector school. Web design. Basics. 2019
+- Development:
+- Go IT. HTML + CSS. 2020
+- Go IT. JS Basics. 2021
+- Brain academy. Java basics. 2016
 
 ## English level - B2-C1
 
