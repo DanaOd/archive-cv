@@ -7,8 +7,11 @@
 ## Contacts
 
 Phone: (+380) 63-63-154-23
+
 Email: dana.lalovaod@gmail.com
+
 Address: Odessa, Ukraine
+
 [LinkedIn:](https://www.linkedin.com/in/dana-lalova-76846083/)
 
 ## About me
@@ -51,12 +54,12 @@ Project manager in Web agency, with experience of leading teams and managing pro
 
 ## Education
 
-- Masters degree at Odessa National Marine university. 2008-2014
-- Projector school. Web design. Basics. 2019
-- Development:
-- Go IT. HTML + CSS. 2020
-- Go IT. JS Basics. 2021
-- Brain academy. Java basics. 2016
+1. Masters degree at Odessa National Marine university. 2008-2014
+1. Projector school. Web design. Basics. 2019
+1. Development:
+   1. Go IT. HTML + CSS. 2020
+   1. Go IT. JS Basics. 2021
+   1. Brain academy. Java basics. 2016
 
 ## English level - B2-C1
 
