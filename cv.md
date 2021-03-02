@@ -12,7 +12,7 @@ Email: dana.lalovaod@gmail.com
 
 Address: Odessa, Ukraine
 
-[LinkedIn:](https://www.linkedin.com/in/dana-lalova-76846083/)
+[LinkedIn](https://www.linkedin.com/in/dana-lalova-76846083/)
 
 ## About me
 
@@ -63,5 +63,5 @@ Project manager in Web agency, with experience of leading teams and managing pro
 
 ## English level - B2-C1
 
-- London school of England. Advanced level, 2019
-- Greenforest English school. Advanced level, 2020
+- London school of England. Advanced level. 2019
+- Greenforest English school. Advanced level. 2020
