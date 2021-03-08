@@ -1,3 +1,18 @@
+:root {
+  --white-color: #ffffff;
+  --black-color: #232536;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   line-height: 140%;
