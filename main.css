@@ -86,6 +86,11 @@ a {
   margin-bottom: 32px;
 }
 
+mark {
+  font-size: 12px;
+  background-color: darkseagreen;
+}
+
 h2 {
   padding-bottom: 16px;
 
